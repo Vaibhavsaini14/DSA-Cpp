@@ -369,6 +369,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -383,6 +384,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -400,6 +402,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
