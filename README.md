@@ -380,6 +380,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -425,6 +426,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -437,6 +439,7 @@
 | [0112-path-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## DP on Trees
 |  |
