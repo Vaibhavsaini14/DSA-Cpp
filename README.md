@@ -376,6 +376,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
@@ -396,6 +397,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
@@ -419,6 +421,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
@@ -433,6 +436,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## DP on Trees
 |  |
