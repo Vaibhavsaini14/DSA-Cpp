@@ -382,6 +382,7 @@
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
