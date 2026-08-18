@@ -374,6 +374,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -398,6 +399,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -424,6 +426,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -465,4 +468,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
