@@ -382,6 +382,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -438,6 +439,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -483,5 +485,6 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
