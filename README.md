@@ -390,6 +390,7 @@
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -419,6 +420,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -454,6 +456,7 @@
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -502,5 +505,6 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
