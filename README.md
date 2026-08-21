@@ -50,6 +50,7 @@
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vaibhavsaini14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vaibhavsaini14/DSA/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -389,6 +390,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -420,6 +422,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Vaibhavsaini14/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -455,6 +458,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Vaibhavsaini14/DSA/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -505,6 +509,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
