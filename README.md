@@ -264,6 +264,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaibhavsaini14/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaibhavsaini14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
