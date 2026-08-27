@@ -43,6 +43,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vaibhavsaini14/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhavsaini14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vaibhavsaini14/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhavsaini14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
@@ -390,6 +392,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -467,6 +470,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhavsaini14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaibhavsaini14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaibhavsaini14/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -534,6 +538,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -545,4 +550,8 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vaibhavsaini14/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
