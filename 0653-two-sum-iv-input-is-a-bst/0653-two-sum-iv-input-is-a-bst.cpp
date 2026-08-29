@@ -13,8 +13,7 @@ class Solution {
 public:
     unordered_set<int> s;
     bool inorder(TreeNode* root , int k){
-        if(!root) return false;
-       
+        if(!root) return false;   
         if(s.count(k - root -> val)) return true;
         s.insert(root -> val); 
         return inorder(root -> right , k) ||  inorder(root -> left , k);
