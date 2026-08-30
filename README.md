@@ -117,6 +117,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhavsaini14/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -289,6 +290,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
