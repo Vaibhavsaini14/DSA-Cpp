@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
-        int minm = min_element(begin(nums) , end(nums)) - begin(nums);
+        int minm = min_element(begin(nums) , end(nums)) - begin(nums); //gets index of that no.
         int maxm = max_element(begin(nums) , end(nums)) - begin(nums);
 
         int left = min(minm , maxm);
