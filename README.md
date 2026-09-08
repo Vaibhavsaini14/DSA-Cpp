@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vaibhavsaini14/DSA/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Vaibhavsaini14/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
@@ -88,6 +89,7 @@
 | [0039-combination-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -139,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
@@ -317,6 +320,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
