@@ -82,6 +82,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhavsaini14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhavsaini14/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -262,6 +264,7 @@
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vaibhavsaini14/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
@@ -279,6 +282,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vaibhavsaini14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaibhavsaini14/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vaibhavsaini14/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -314,6 +318,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaibhavsaini14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vaibhavsaini14/DSA/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
