@@ -265,6 +265,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Vaibhavsaini14/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Vaibhavsaini14/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Vaibhavsaini14/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
@@ -379,6 +380,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaibhavsaini14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [1669-merge-in-between-linked-lists](https://github.com/Vaibhavsaini14/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vaibhavsaini14/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Vaibhavsaini14/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Interactive
 |  |
 | ------- |
