@@ -31,6 +31,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vaibhavsaini14/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
@@ -271,6 +272,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/Vaibhavsaini14/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
