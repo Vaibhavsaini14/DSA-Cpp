@@ -102,6 +102,7 @@
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Vaibhavsaini14/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vaibhavsaini14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vaibhavsaini14/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Vaibhavsaini14/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3904-smallest-stable-index-ii) |
