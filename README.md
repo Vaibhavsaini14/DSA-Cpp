@@ -99,6 +99,7 @@
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@
 | [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/Vaibhavsaini14/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -348,6 +350,7 @@
 | [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
