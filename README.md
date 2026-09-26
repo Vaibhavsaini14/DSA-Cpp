@@ -124,6 +124,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhavsaini14/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +160,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavsaini14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -321,6 +323,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -349,6 +352,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
