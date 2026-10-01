@@ -8,12 +8,12 @@ public:
             else{ 
                 if(st.empty()) return false;
                 char ch = st.top();
-                st.pop();
-                if((s[i]== ')' && ch != '(') || 
+                if((s[i] == ')' && ch != '(') || 
                 (s[i] == ']' && ch != '[' )|| 
                 (s[i] == '}' && ch != '{')) 
                 return false;
-            }  
+                else st.pop();
+            } 
         }
         return st.empty();
     }
