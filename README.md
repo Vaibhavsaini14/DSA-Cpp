@@ -627,5 +627,6 @@
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
