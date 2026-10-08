@@ -17,6 +17,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0856-score-of-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhavsaini14/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
@@ -61,6 +62,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Vaibhavsaini14/DSA/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhavsaini14/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
@@ -628,5 +630,6 @@
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
