@@ -144,6 +144,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vaibhavsaini14/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavsaini14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -594,6 +595,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Lifting
