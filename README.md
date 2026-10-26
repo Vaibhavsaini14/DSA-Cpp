@@ -146,6 +146,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vaibhavsaini14/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavsaini14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -217,6 +218,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Vaibhavsaini14/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vaibhavsaini14/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhavsaini14/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vaibhavsaini14/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
