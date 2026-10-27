@@ -153,6 +153,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavsaini14/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vaibhavsaini14/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/Vaibhavsaini14/DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/3731-find-missing-elements) |
@@ -241,6 +242,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vaibhavsaini14/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
