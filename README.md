@@ -75,6 +75,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vaibhavsaini14/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
 ## Design
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhavsaini14/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vaibhavsaini14/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/Vaibhavsaini14/DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -257,6 +259,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhavsaini14/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
 ## Data Stream
 |  |
 | ------- |
@@ -352,6 +356,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
