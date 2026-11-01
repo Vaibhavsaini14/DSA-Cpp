@@ -107,6 +107,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0525-contiguous-array) |
@@ -318,6 +319,7 @@
 | [0258-add-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vaibhavsaini14/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
