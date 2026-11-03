@@ -5,8 +5,8 @@ public:
         int n = nums.size();
         int maxm = nums[n-1];
         int moves = 0;
-        for(int num : nums){
-            moves += abs( num - maxm);
+        for(int i = 0; i < n; i++){
+            moves += abs(nums[i] - maxm);
         }
         return moves;
        
