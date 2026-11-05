@@ -127,6 +127,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vaibhavsaini14/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -226,6 +227,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -277,6 +279,7 @@
 | [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhavsaini14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Vaibhavsaini14/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -393,6 +396,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhavsaini14/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
