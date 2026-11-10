@@ -99,6 +99,7 @@
 | [0040-combination-sum-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavsaini14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vaibhavsaini14/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavsaini14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaibhavsaini14/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -435,6 +437,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavsaini14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
