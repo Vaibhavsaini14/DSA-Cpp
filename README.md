@@ -150,6 +150,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vaibhavsaini14/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -372,6 +373,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Vaibhavsaini14/DSA/tree/master/3638-maximum-balanced-shipments) |
@@ -408,6 +410,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vaibhavsaini14/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vaibhavsaini14/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vaibhavsaini14/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
